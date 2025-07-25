@@ -6,7 +6,7 @@ A frontend-only React application that simulates a vehicle moving along a predef
 
 ## 🌐 Live Demo
 
-🔗 [https://vehicle-movement-map.vercel.app](https://vehicle-movement-map.vercel.app)
+🔗 [https://vehicle-movement-map-umber.vercel.app/](https://vehicle-movement-map-umber.vercel.app/)
 
 ---
 
